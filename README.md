@@ -1,4 +1,4 @@
-<!doctype html>
+
 <html lang="zh">
 <head>
 <meta charset="utf-8">
@@ -71,28 +71,19 @@ line-height:6px;
 }
  
 </style>
-</head>
  
 <body>
  
 <div id="pagewrap">
  
 <div id="header">
-		<h1 align="center"><a style=" text-decoration: none; color: #242424;" href="###">随笔</font></h1>
-		<p align="center"><a style=" text-decoration: none; color: #242424;" href="#">名生</font></p></A>
-	</div>
+		<h1 align="center"><a style=" text-decoration: none; color: #242424;" href="###">随笔
+		<p align="center"><a style=" text-decoration: none; color: #242424;" href="#">名生
 <p align="center">世事纷杂兮铭之以记<P>
 <p align="center">浩若烟海兮传之以承<P>
 <p align="center">意义非凡兮持之以恒<P>
 <p align="center">生而有涯兮求之以道<P>
 
   <div id="footer">
-    <h4 align="center"><a style=" text-decoration: none; color: #242424;" href="wode">行云流水</font></h4>
-<A><p align="center"><a style=" text-decoration: none; color: #242424;" href="beian">沧海一黍</font></A>
-
-  </div>
- 
-</div>
- 
-</body>
-</html>
+    <h4 align="center"><a style=" text-decoration: none; color: #242424;" href="wode">行云流水
+<A><p align="center"><a style=" text-decoration: none; color: #242424;" href="beian">沧海一黍
