@@ -1,12 +1,7 @@
 
-<html lang="zh">
-<head>
-<meta charset="utf-8">
 <body bgcolor="#C7EDCC">
 <!-- viewport meta to reset iPhone inital scale -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
- 
-<title>云珄</title>
  
 <!-- css3-mediaqueries.js for IE8 or older -->
 <!--[if lt IE 9]>
@@ -76,8 +71,8 @@ line-height:6px;
  
 <div id="pagewrap">
  
-##<div id="header">
-		<h1 align="center"><a style=" text-decoration: none; color: #242424;" href="###">随笔
+<div id="header">
+##随笔
 		<p align="center"><a style=" text-decoration: none; color: #242424;" href="#">名生
 <p align="center">世事纷杂兮铭之以记<P>
 <p align="center">浩若烟海兮传之以承<P>
