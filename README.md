@@ -80,4 +80,4 @@ line-height:6px;
 <p align="center">生而有涯兮求之以道<P>
 
   <div id="footer">
-    <h4 align="center"><A><a href="beian">沧海一黍
+    <h4 align="center"><A><a href="beian">沧海黍
