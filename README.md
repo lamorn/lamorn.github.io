@@ -1,6 +1,6 @@
 
 <body bgcolor="#C7EDCC">
-<!-- viewport meta to reset iPhone inital scale -->
+
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
  
 <!-- css3-mediaqueries.js for IE8 or older -->
@@ -72,13 +72,12 @@ line-height:6px;
 <div id="pagewrap">
  
 <div id="header">
-<h1 align="center"><a style=" text-decoration: none;" href="###">随笔
-		<p align="center"><a style=" text-decoration: none;" href="#">名生
+<h1 align="center">随笔
+		<p align="center">名生
 <p align="center">世事纷杂兮铭之以记<P>
 <p align="center">浩若烟海兮传之以承<P>
 <p align="center">意义非凡兮持之以恒<P>
 <p align="center">生而有涯兮求之以道<P>
 
   <div id="footer">
-    <h4 align="center"><a style=" text-decoration: none; color: #242424;" href="wode">行云流水
-<A><p align="center"><a style=" text-decoration: none; color: #242424;" href="beian">沧海一黍
+    <h4 align="center"><A><a style=" text-decoration: none;" href="beian">沧海一黍
