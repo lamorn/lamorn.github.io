@@ -72,8 +72,8 @@ line-height:6px;
 <div id="pagewrap">
  
 <div id="header">
-##随笔
-		<p align="center"><a style=" text-decoration: none; color: #242424;" href="#">名生
+<h1 align="center"><a style=" text-decoration: none;" href="###">随笔
+		<p align="center"><a style=" text-decoration: none;" href="#">名生
 <p align="center">世事纷杂兮铭之以记<P>
 <p align="center">浩若烟海兮传之以承<P>
 <p align="center">意义非凡兮持之以恒<P>
