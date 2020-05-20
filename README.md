@@ -74,7 +74,7 @@ line-height:6px;
 <div id="header">
 <h1 align="center">随笔
 		<p align="center">名生
-<p align="center">世事纷杂兮铭之以记<P>
+<p align="center">世事纷杂兮铭之以刻<P>
 <p align="center">浩若烟海兮传之以承<P>
 <p align="center">意义非凡兮持之以恒<P>
 <p align="center">生而有涯兮求之以道<P>
