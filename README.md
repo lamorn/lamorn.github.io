@@ -1,3 +1,10 @@
-# lamorn.github.io
-And God said,Let there be light:and there was light.
-hello-world
+随笔
+名生
+
+世事纷杂兮铭之以刻
+
+浩若烟海兮传之以承
+
+意义非凡兮持之以恒
+
+生而有涯兮求之以道
