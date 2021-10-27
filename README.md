@@ -1,4 +1,51 @@
+<style type="text/css">
 
+body {
+	font: 1em/150% Arial, Helvetica, sans-serif;
+}
+a {
+	color: #669;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+h1 {
+	font: bold 30px/100% SimSun,"Times New Roman",Serif;
+}
+ 
+/************************************************************************************
+STRUCTURE 
+
+*************************************************************************************/
+#pagewrap {
+	padding: 0px;
+	width: 680px;
+	margin: 0px auto;
+}
+#header {
+	height: 120px;
+}
+#content {
+	width: 680px;
+	float: right;
+    font-family: SimSun,"Times New Roman",Serif;
+}
+
+#sidebar {
+	width: 680px;
+	float: right;
+}
+#footer {
+	
+	clear: both;
+	
+}
+
+</style>
+</head>
+ 
+<body>
 <div id="pagewrap">
  
 	<div id="header">
