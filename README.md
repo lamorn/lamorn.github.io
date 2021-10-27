@@ -117,7 +117,6 @@ MEDIA QUERIES
 	<div id="content">
 <!-- 标题 -->
 		<h2 style="font-family:Times New Roman; font-size:20px;">原文内容</h2>
-	<HR align=center color=#000 SIZE=1>
 <!-- 目录 -->
 <table border="0" width=100% >
   <tr>
@@ -136,7 +135,6 @@ MEDIA QUERIES
    <time>1978-05-11</time>
    </td>
 </tr>
-</table>
 
 	</div>
 <!-- 底部 -->	
@@ -150,6 +148,3 @@ MEDIA QUERIES
 	</div>
  
 </div>
- 
-</body>
-</html>
