@@ -118,7 +118,6 @@ MEDIA QUERIES
 <!-- 标题 -->
 		<h2 style="font-family:Times New Roman; font-size:20px;">原文内容</h2>
 <!-- 目录 -->
-<table border="0" width=100% >
   <tr>
     <td>
     <a style=" color: #000;" href="#" >
@@ -127,6 +126,7 @@ MEDIA QUERIES
    <time>1978-05-11</time>
    </td>
 </tr>
+	<br>	
   <tr>
     <td>
     <a style=" color: #000;" href="#" >
