@@ -39,7 +39,7 @@
 	<hr style="height:0px;border:none;border-top:3px double #ccc;" /> 
 
 <a style="text-decoration: none; color: #ccc;font-size:1px; " href="#" title="注释">©2021</a>
-<a style="text-decoration: none; color: #ccc;font-size:1px; " href="#">lamorn.</a>
+<a style="text-decoration: none; color: #ccc;font-size:1px; " href="http://yun.ac.cn/">lamorn.</a>
 <a style="text-decoration: none; color: #ccc;font-size:1px; " href="#" title="注释">Blog README.</a>
 
 	</div>
